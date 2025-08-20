@@ -66,7 +66,7 @@ ImageEncryption/
 ```
 
 Update your GitHub repository link below:
-👉 **GitHub Repo: (https://github.com/ganeshkrishnareddy/Prodigy_CS_Task_02)*
+👉 **GitHub Repo: ([https://github.com/ganeshkrishnareddy/Prodigy_CS_Task_02](https://github.com/ganeshkrishnareddy/Image-Encryption-Tool))*
 
 ---
 
